@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Jovan_Gavrilovic_Rn81</string>
+
+
+    <string name="loading">Loading…</string>
+    <string name="ime">Unesite ime</string>
+    <string name="prezime">Unesite prezime</string>
+    <string name="bolnica">Unesite ime bolnice u kojoj ste zaposleni</string>
+    <string name="pin">Unesite PIN</string>
+    <string name="prijava">Prijava</string>
+    <string name="pin_code">0000</string>
+
+
+    <string name="stanje">Pregled brojnog stanja pacijenata</string>
+    <string name="cekaonica">Broj pacijenata u cekaonici:</string>
+    <string name="primljenih">Broj hospitalizovanih pacijenata:</string>
+    <string name="otpustenih">Broj otpustenih pacijenata:</string>
+
+
+    <string name="title">Podaci o zdravstvenom radniku</string>
+    <string name="txtBrCekaonicaVr">0</string>
+    <string name="covid_19">Informacioni sistem za
+        pracenje stanja
+        pacijenata obolelih od
+        Covid-19</string>
+</resources>
